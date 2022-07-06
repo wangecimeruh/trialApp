@@ -7,6 +7,7 @@ import { ProductRoutingModule } from './product-routing.module';
   imports: [
     CommonModule,
     ProductRoutingModule
+    //test
   ],
   declarations: [ProductListComponent]
 })
